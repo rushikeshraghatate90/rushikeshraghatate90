@@ -92,5 +92,5 @@
 
 <hr>
 
-[linkedin]:www.linkedin.com/in/rushikeshraghatate
+[linkedin]: https://www.linkedin.com/in/rushikeshraghatate
 
